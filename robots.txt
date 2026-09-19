@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sportivy-hub.github.io/livesport/sitemap-pages.xml
+Sitemap: https://sportivy-hub.github.io/livesport/sitemap.xml
